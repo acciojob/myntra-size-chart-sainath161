@@ -1,2 +1,29 @@
-
 /* Your CSS Code here. */
+table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+	  border: 1px solid black;
+    }
+
+    th {
+      background-color: #c0504d;
+	  color: #fff;
+    }
+	.first{
+		background-color: #da9694;
+		color: #fff;
+	}
+	.second{
+		background-color: #f2dcdb;
+	}
+	.third{
+		background-color: #d9d9d9;
+	}
+	.size{
+		text-align: right;
+	}
